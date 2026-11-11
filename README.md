@@ -1,4 +1,4 @@
-# Ashraf Ahmed Portfolio 
+# Ashraf Ahmed
 
 Personal portfolio showcasing education, conference publications, projects and experience in
 Electrical and Electronic Engineering, photonics and RF antenna design.
